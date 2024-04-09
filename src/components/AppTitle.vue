@@ -15,4 +15,10 @@
 </template>
 
 <style>  
+.title {
+    font-size: 50px;
+    color: red;
+    display: flex;
+}
+
 </style>
